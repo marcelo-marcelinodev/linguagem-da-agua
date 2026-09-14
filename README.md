@@ -67,6 +67,89 @@ Principais contribuintes:
 - Ribeirão Grande
 
 ---
+# Sistemas Monitorados
+
+## Sistema Cantareira
+
+- Jaguari
+- Jacareí
+- Cachoeira
+- Atibainha
+- Juqueri
+
+## Sistema Guarapiranga
+
+- Embu-Guaçu
+- Embu-Mirim
+- Capivari
+- Parelheiros
+
+## Sistema Billings
+
+- Jurubatuba
+- Rio Grande
+- Taquacetuba
+- Rio Pequeno
+
+---
+
+# Sistemas de Observação e Pesquisa
+
+Além dos sistemas produtores principais, o projeto também monitora
+reservatórios estratégicos de menor porte para pesquisa, validação de
+modelos e aprendizado hidrológico.
+
+## Núcleo Operacional
+
+- Cantareira
+- Guarapiranga
+- Billings
+- Alto Tietê
+- Rio Grande
+
+Esses sistemas possuem impacto direto no abastecimento da Região Metropolitana de São Paulo.
+
+## Bacias de Aprendizado (Learning Watersheds)
+
+Reservatórios menores podem responder mais rapidamente aos eventos
+meteorológicos e servir como ambientes experimentais para validação
+dos modelos preditivos.
+
+### Cabuçu
+
+Utilizado para:
+
+- Estudo de resposta hidrológica rápida
+- Correlação chuva × aporte
+- Validação de algoritmos
+- Desenvolvimento da Linguagem da Água
+
+### Tanque Grande
+
+Utilizado para:
+
+- Monitoramento de microbacias
+- Estudos de sazonalidade
+- Comparação entre sistemas
+
+### Engordador
+
+Utilizado para:
+
+- Modelagem hidrológica
+- Estudos ambientais
+- Validação geoespacial
+
+### Várzea do Palácio
+
+Utilizado como observatório complementar para análise de comportamento local dos recursos hídricos.
+
+---
+
+Objetivo:
+
+Transformar reservatórios menores em laboratórios naturais de aprendizado para os modelos aplicados posteriormente aos sistemas Cantareira, Guarapiranga e Billings.
+
 
 # Objetivos
 
