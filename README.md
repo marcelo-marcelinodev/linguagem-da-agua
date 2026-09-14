@@ -67,31 +67,6 @@ Principais contribuintes:
 - Ribeirão Grande
 
 ---
-# Sistemas Monitorados
-
-## Sistema Cantareira
-
-- Jaguari
-- Jacareí
-- Cachoeira
-- Atibainha
-- Juqueri
-
-## Sistema Guarapiranga
-
-- Embu-Guaçu
-- Embu-Mirim
-- Capivari
-- Parelheiros
-
-## Sistema Billings
-
-- Jurubatuba
-- Rio Grande
-- Taquacetuba
-- Rio Pequeno
-
----
 
 # Sistemas de Observação e Pesquisa
 
